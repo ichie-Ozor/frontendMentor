@@ -44,3 +44,22 @@
     line-height: 1.1;
     color:  hsl(210, 1%, 54%);
 }
+
+@media screen and (min-width:1007px){
+    .Qr{
+        width: 1578px;
+        height: 720px;
+        left: 5px;
+        background: hsl(216, 67%, 90%);
+    }
+    .Qr-container{
+        position: relative;
+        top: -25px;
+        left: 650px;
+        width: 320px;
+        height: 500px;
+        background: #fff;
+        align-items: center;
+        border-radius: 20px;
+    }
+}
