@@ -1,0 +1,46 @@
+.Qr{
+    position: relative;
+    width: 375px;
+    height: 750px;
+    display: flex;
+    align-items: center;
+    left: 500px;
+    top: 10px;
+    background: hsl(216, 67%, 90%);
+}
+.Qr-container{
+    position: relative;
+    top: -25px;
+    left: 30px;
+    width: 320px;
+    height: 500px;
+    background: #fff;
+    align-items: center;
+    border-radius: 20px;
+}
+.Qr-img{
+    position: relative;
+    width: 285px;
+    top: 20px;
+    border-radius: 10px;
+}
+.Qr-text{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    width: 280px;
+    font-size: 22px;
+    font-family: "Outfit";
+    font-weight: 700;
+}
+#Qr-text{
+    position: relative;
+    top: 5px;
+    left: 30px;
+    width: 250px;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Outfit";
+    line-height: 1.1;
+    color:  hsl(210, 1%, 54%);
+}
